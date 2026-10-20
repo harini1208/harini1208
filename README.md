@@ -20,7 +20,6 @@ Here are some ideas to get you started:
        width="100%"
        alt="Harini Chinnasamy animated banner">
 </p>
----
 
 ## 🌱 What I'm Up To
 
