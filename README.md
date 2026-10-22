@@ -57,45 +57,35 @@ Here are some ideas to get you started:
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java%20(Fundamentals)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Embedded%20C-00897B?style=for-the-badge" alt="Embedded C"/>
-  <img src="https://img.shields.io/badge/Ladder%20Logic-6A1B9A?style=for-the-badge" alt="Ladder Logic"/>
-  <img src="https://img.shields.io/badge/Verilog-B71C1C?style=for-the-badge" alt="Verilog"/>
-</p>
+![C](https://img.shields.io/badge/C-385477?style=for-the-badge&logo=c&logoColor=E0EAF5)
+![C++](https://img.shields.io/badge/C%2B%2B-42658A?style=for-the-badge&logo=cplusplus&logoColor=E0EAF5)
+![Java](https://img.shields.io/badge/Java%20(Fundamentals)-65517D?style=for-the-badge&logo=openjdk&logoColor=EEE5F8)
+![Embedded C](https://img.shields.io/badge/Embedded_C-496582?style=for-the-badge)
+![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-6B5687?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-505B78?style=for-the-badge)
 
 ### ⚙️ Hardware & Embedded
 
-<p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Arduino%20UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino UNO"/>
-  <img src="https://img.shields.io/badge/PCB%20Design-228B22?style=for-the-badge" alt="PCB Design"/>
-</p>
+![ESP32](https://img.shields.io/badge/ESP32-505B78?style=for-the-badge&logo=espressif&logoColor=E0EAF5)
+![Arduino UNO](https://img.shields.io/badge/Arduino_UNO-3F7185?style=for-the-badge&logo=arduino&logoColor=D8EDF5)
+![PCB Design](https://img.shields.io/badge/PCB_Design-5B6085?style=for-the-badge)
 
 ### 💻 Software & Development
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-66517F?style=for-the-badge&logo=html5&logoColor=EEE5F8)
+![CSS3](https://img.shields.io/badge/CSS3-386B98?style=for-the-badge&logo=css3&logoColor=E0EAF5)
+![JavaScript](https://img.shields.io/badge/JavaScript-71628D?style=for-the-badge&logo=javascript&logoColor=EEE5F8)
+![Kotlin](https://img.shields.io/badge/Kotlin-765D9B?style=for-the-badge&logo=kotlin&logoColor=EEE5F8)
 
 ### 🔧 IDEs & Design Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Modbus%20Poll-1565C0?style=for-the-badge" alt="Modbus Poll"/>
-  <img src="https://img.shields.io/badge/Modscan-00838F?style=for-the-badge" alt="Modscan"/>
-  <img src="https://img.shields.io/badge/Modsim-6A1B9A?style=for-the-badge" alt="Modsim"/>
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
-  <img src="https://img.shields.io/badge/Wokwi-7C4DFF?style=for-the-badge" alt="Wokwi"/>
-  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
-</p>
-
-
+![Modbus Poll](https://img.shields.io/badge/Modbus_Poll-385477?style=for-the-badge)
+![Modscan](https://img.shields.io/badge/Modscan-47768A?style=for-the-badge)
+![Modsim](https://img.shields.io/badge/Modsim-65517D?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-4B6087?style=for-the-badge&logo=kicad&logoColor=E0EAF5)
+![Wokwi](https://img.shields.io/badge/Wokwi-6B5687?style=for-the-badge)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-426D82?style=for-the-badge&logo=arduino&logoColor=D8EDF5)
+![Android Studio](https://img.shields.io/badge/Android_Studio-506B8A?style=for-the-badge&logo=androidstudio&logoColor=E0EAF5)
 ---
 
 ## 🤝 Ping me at !!!
@@ -113,7 +103,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  🌸 <i>Let's connect, collaborate, and build something meaningful!</i>
+   <i>Let's connect, collaborate, and build something meaningful!</i>
 </p>
 
 
